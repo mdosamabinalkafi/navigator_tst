@@ -61,14 +61,14 @@ class HomePage extends StatelessWidget {
                 
                 leading: Icon(Icons.book),
                 title: Text('The Alchemist'),
-                subtitle: Text('Paulo Coelho'),
+               
                 trailing: Icon(Icons.arrow_right),
               )
 
 
 
 
-
+ //subtitle: Text('Paulo Coelho'),
 
 
 
